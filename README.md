@@ -86,6 +86,3 @@ The AI Portfolio Optimizer effectively integrates machine learning with Modern P
 - `app.py`: Main Streamlit application
 - `portfolio_optimizer.py`: Core logic for optimization, risk, and prediction
 
-## License
-
-MIT License 
